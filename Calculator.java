@@ -1,5 +1,5 @@
 
-public class Calculator {
+public class Calculatorx {
 	
 	public static double getSum(double first, double second, double third, double fourth, double fifth) {
 		return first+second+third+fourth+fifth;
